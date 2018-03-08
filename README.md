@@ -1,40 +1,41 @@
-# InteractiveTerrain2000
-An interactive terrain simulator
+# Terrain-Simulator v.0
+An interactive 3D terrain simulator programmed with the OpenGL API, using the Circles Algorithm for heightmap  
+An assignment for 3GC3 Computer Graphics.
 
-A project for Software Engineering & Game Design (Computer Graphics course)
-
-What has been implemented:
-1) SELECTABLE GRID SIZES : 
+## What has been implemented:
+#### 1. SELECTABLE GRID SIZES : 
 	- 50 x 50
 	- 100 x 100
 	- 150 x 150
 	- 200 x 200
 	- 250 x 250
 	- 300 x 300
-2) SHADING MODELS: 
+#### 2. SHADING MODELS: 
 	- Flat
 	- Gouraud
-5) WIREFRAME OPTIONS: 
+#### 3. WIREFRAME OPTIONS: 
 	- Solid	      
 	- Wireframe
  	- Solid + Wireframe (NOT PROPERLY)
-6) QUAD and TRI STRIP MODE
-7) Orbiting the terrain 
+#### 4. QUAD and TRI STRIP MODE
+#### 5. Orbiting the terrain 
 	- need to figure out how to work with each x-z plane quad
 	- rotating around the x axis to limit
-8) Lighting (Looks better with bigger terrain and Gouraud shading)
+#### 6. Lighting (Looks better with bigger terrain and Gouraud shading)
 	- normal calculations
 	- Light 1 and Light 2
 	- Interactive Lighting (only along x-axis)
-9) Reset Terrain (Not implemented :( )
+#### 7. Interactive Camera
+	- Rotates around y-axis
+	- Rotates around z-axis
 
-BONUS FEATURES IMPLEMENTED:
-1) 2D Terrain Overview
-2) Terrain Modification
+## BONUS FEATURES IMPLEMENTED:
+1. 2D Terrain Overview
+2. Terrain Modification
 	- Use 2D overview to add bumps/dents to terrain
-2) Funky colours
+2. Funky colours
 	- can change the terrain colours...
-3) Create a Terrain 
+3. Create a Terrain 
 	- create a terrain from scratch
 	- select terrain size 
 	- left click on area to create bump
