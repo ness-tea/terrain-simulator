@@ -33,10 +33,9 @@ An assignment for 3GC3 Computer Graphics.
 1. 2D Terrain Overview
 2. Terrain Modification
    - Use 2D overview to alter terrain heightmap
-2. Funky colours
-   - can change the terrain colours...
-3. Create a Terrain 
-   - create a terrain from scratch
-   - select terrain size 
-   - left click on area to create bump
-   - right click on area to create dent 
+3. Improved Colour Scheme
+4. Create a Terrain 
+   - Create a terrain from scratch
+   - Selectable terrain sizes 
+   - Left click + hold on area to create bump
+   - Right click + hold on area to create dent 
