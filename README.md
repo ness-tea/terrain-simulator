@@ -1,6 +1,5 @@
 # Terrain-Simulator v.0
 An interactive 3D terrain simulator programmed with the OpenGL API, using the Circles Algorithm for generating heightmap values.  
-An assignment for 3GC3 Computer Graphics.
 
 ## What has been implemented:
 #### 1. SELECTABLE GRID SIZES : 
